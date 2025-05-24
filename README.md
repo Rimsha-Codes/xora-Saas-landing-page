@@ -4,7 +4,7 @@ This project is a fully responsive SaaS landing page built using React.js and Ta
 
 ## 📸 Final Look
 
-![App Screenshot](/image.png)
+![App Screenshot](public/image.png)
 
 ## 🛠️ Tech Stack
 
